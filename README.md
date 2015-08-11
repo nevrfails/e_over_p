@@ -1,3 +1,3 @@
 # Rails Training
 
-This is the E over P application for [:nevrfails]
+This is the E over P application for [*nevrfails*]
